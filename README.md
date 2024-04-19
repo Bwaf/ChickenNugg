@@ -1,1 +1,1 @@
-Please Dont take the code from this project this will become a website and will be iframable to your website, this is because I will be added updates and will make it easier for you to just have the updates go directly to your projects
+Please Dont take the code from this project this will become a website and will be iframable to your website, this is because I will be adding updates and will make it easier for you to just have the updates go directly to your projects
